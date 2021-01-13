@@ -1,2 +1,2 @@
-# CC Exchange
+# Crypto Exchange Configs
  
